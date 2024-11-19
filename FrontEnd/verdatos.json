@@ -1,0 +1,1830 @@
+{
+  "residentes": [
+    {
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "tipoDocumento": "CC",
+      "numdoc": "1023456789",
+      "telefono": "3001234567",
+      "email": "juan.perez@gmail.com",
+      "contrasenia": "Juan3308"
+    },
+    {
+      "nombre": "María",
+      "apellido": "García",
+      "tipoDocumento": "CC",
+      "numdoc": "1123456789",
+      "telefono": "3102345678",
+      "email": "maria.garcia@gmail.com",
+      "contrasenia": "Maria2024"
+    },
+    {
+      "nombre": "Carlos",
+      "apellido": "Rodríguez",
+      "tipoDocumento": "CC",
+      "numdoc": "1223456789",
+      "telefono": "3203456789",
+      "email": "carlos.rodriguez@gmail.com",
+      "contrasenia": "Carlos1985"
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "Martínez",
+      "tipoDocumento": "CC",
+      "numdoc": "1323456789",
+      "telefono": "3004567890",
+      "email": "ana.martinez@gmail.com",
+      "contrasenia": "Ana4809"
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "Sánchez",
+      "tipoDocumento": "CC",
+      "numdoc": "1423456789",
+      "telefono": "3105678901",
+      "email": "pedro.sanchez@gmail.com",
+      "contrasenia": "Pedro_567"
+    },
+    {
+      "nombre": "Laura",
+      "apellido": "López",
+      "tipoDocumento": "CC",
+      "numdoc": "1523456789",
+      "telefono": "3206789012",
+      "email": "laura.lopez@gmail.com",
+      "contrasenia": "Laura88"
+    },
+    {
+      "nombre": "Miguel",
+      "apellido": "González",
+      "tipoDocumento": "CC",
+      "numdoc": "1623456789",
+      "telefono": "3007890123",
+      "email": "miguel.gonzalez@gmail.com",
+      "contrasenia": "Miguel5906"
+    },
+    {
+      "nombre": "Isabel",
+      "apellido": "Díaz",
+      "tipoDocumento": "CC",
+      "numdoc": "1723456789",
+      "telefono": "3108901234",
+      "email": "isabel.diaz@gmail.com",
+      "contrasenia": "Isabel_2024"
+    },
+    {
+      "nombre": "Francisco",
+      "apellido": "Ruiz",
+      "tipoDocumento": "CC",
+      "numdoc": "1823456789",
+      "telefono": "3209012345",
+      "email": "francisco.ruiz@gmail.com",
+      "contrasenia": "Francisco2006"
+    },
+    {
+      "nombre": "Carmen",
+      "apellido": "Fernández",
+      "tipoDocumento": "CC",
+      "numdoc": "1923456789",
+      "telefono": "3000123456",
+      "email": "carmen.fernandez@gmail.com",
+      "contrasenia": "Carmen99"
+    },
+    {
+      "nombre": "Javier",
+      "apellido": "Moreno",
+      "tipoDocumento": "CC",
+      "numdoc": "2023456789",
+      "telefono": "3101234567",
+      "email": "javier.moreno@gmail.com",
+      "contrasenia": "Javier2024"
+    },
+    {
+      "nombre": "Lucía",
+      "apellido": "Jiménez",
+      "tipoDocumento": "CC",
+      "numdoc": "2123456789",
+      "telefono": "3202345678",
+      "email": "lucia.jimenez@gmail.com",
+      "contrasenia": "Lucia3000"
+    },
+    {
+      "nombre": "Antonio",
+      "apellido": "Álvarez",
+      "tipoDocumento": "CC",
+      "numdoc": "2223456789",
+      "telefono": "3003456789",
+      "email": "antonio.alvarez@gmail.com",
+      "contrasenia": "Antonio750"
+    },
+    {
+      "nombre": "Elena",
+      "apellido": "Muñoz",
+      "tipoDocumento": "CC",
+      "numdoc": "2323456789",
+      "telefono": "3104567890",
+      "email": "elena.munoz@gmail.com",
+      "contrasenia": "Elena_77"
+    },
+    {
+      "nombre": "David",
+      "apellido": "Romero",
+      "tipoDocumento": "CC",
+      "numdoc": "2423456789",
+      "telefono": "3205678901",
+      "email": "david.romero@gmail.com",
+      "contrasenia": "David11"
+    },
+    {
+      "nombre": "Sofía",
+      "apellido": "Alonso",
+      "tipoDocumento": "CC",
+      "numdoc": "2523456789",
+      "telefono": "3006789012",
+      "email": "sofia.alonso@gmail.com",
+      "contrasenia": "Sofia_2024"
+    },
+    {
+      "nombre": "Manuel",
+      "apellido": "Torres",
+      "tipoDocumento": "CC",
+      "numdoc": "2623456789",
+      "telefono": "3107890123",
+      "email": "manuel.torres@gmail.com",
+      "contrasenia": "Manuel_77"
+    },
+    {
+      "nombre": "Beatriz",
+      "apellido": "Ortega",
+      "tipoDocumento": "CC",
+      "numdoc": "2723456789",
+      "telefono": "3208901234",
+      "email": "beatriz.ortega@gmail.com",
+      "contrasenia": "Ortega53"
+    },
+    {
+      "nombre": "Alejandro",
+      "apellido": "Castro",
+      "tipoDocumento": "CC",
+      "numdoc": "2823456789",
+      "telefono": "3009012345",
+      "email": "alejandro.castro@gmail.com",
+      "contrasenia": "Castro13"
+    },
+    {
+      "nombre": "Cristina",
+      "apellido": "Delgado",
+      "tipoDocumento": "CC",
+      "numdoc": "2923456789",
+      "telefono": "3100123456",
+      "email": "cristina.delgado@gmail.com",
+      "contrasenia": "Cristina140"
+    },
+    {
+      "nombre": "Roberto",
+      "apellido": "Vargas",
+      "tipoDocumento": "CC",
+      "numdoc": "3023456789",
+      "telefono": "3201234567",
+      "email": "roberto.vargas@gmail.com",
+      "contrasenia": "Roberto@33"
+    },
+    {
+      "nombre": "Natalia",
+      "apellido": "Serrano",
+      "tipoDocumento": "CC",
+      "numdoc": "3123456789",
+      "telefono": "3002345678",
+      "email": "natalia.serrano@gmail.com",
+      "contrasenia": "Natalia27"
+    },
+    {
+      "nombre": "Ángel",
+      "apellido": "Herrera",
+      "tipoDocumento": "CC",
+      "numdoc": "3223456789",
+      "telefono": "3103456789",
+      "email": "angel.herrera@gmail.com",
+      "contrasenia": "Angel109"
+    },
+    {
+      "nombre": "Silvia",
+      "apellido": "Molina",
+      "tipoDocumento": "CC",
+      "numdoc": "3323456789",
+      "telefono": "3204567890",
+      "email": "silvia.molina@gmail.com",
+      "contrasenia": "Silvia4090"
+    },
+    {
+      "nombre": "Raúl",
+      "apellido": "Blanco",
+      "tipoDocumento": "CC",
+      "numdoc": "3423456789",
+      "telefono": "3005678901",
+      "email": "raul.blanco@gmail.com",
+      "contrasenia": "Blanco1025"
+    },
+    {
+      "nombre": "Patricia",
+      "apellido": "Sanz",
+      "tipoDocumento": "CC",
+      "numdoc": "3523456789",
+      "telefono": "3106789012",
+      "email": "patricia.sanz@gmail.com",
+      "contrasenia": "Patricia99"
+    },
+    {
+      "nombre": "Fernando",
+      "apellido": "Medina",
+      "tipoDocumento": "CC",
+      "numdoc": "3623456789",
+      "telefono": "3207890123",
+      "email": "fernando.medina@gmail.com",
+      "contrasenia": "Fernando78"
+    },
+    {
+      "nombre": "Mónica",
+      "apellido": "León",
+      "tipoDocumento": "CC",
+      "numdoc": "3723456789",
+      "telefono": "3008901234",
+      "email": "monica.leon@gmail.com",
+      "contrasenia": "Monica2007"
+    },
+    {
+      "nombre": "Andrés",
+      "apellido": "Vega",
+      "tipoDocumento": "CC",
+      "numdoc": "3823456789",
+      "telefono": "3109012345",
+      "email": "andres.vega@gmail.com",
+      "contrasenia": "Andres123"
+    },
+    {
+      "nombre": "Eva",
+      "apellido": "Campos",
+      "tipoDocumento": "CC",
+      "numdoc": "3923456789",
+      "telefono": "3200123456",
+      "email": "eva.campos@gmail.com",
+      "contrasenia": "Eva2024"
+    },
+    {
+      "id": "5b37"
+    },
+    {
+      "id": "e56a",
+      "nombre": "Julian",
+      "apellido": "Ospina",
+      "tipoDocumento": "CC",
+      "numdoc": "1013105546",
+      "telefono": "3112212269",
+      "email": "",
+      "contrasenia": "",
+      "torre": "A",
+      "apartamento": "101"
+    }
+  ],
+  "UnidadResidencial": [
+    {
+      "nombreResidente": "Juan",
+      "apellidoResidente": "Pérez",
+      "telefonoResidente": "3001234567",
+      "emailResidente": "juan.perez@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "1023456789",
+      "EstadoMoraResidente": "True",
+      "torre": "A",
+      "apartamento": "101",
+      "residenteId": "1"
+    },
+    {
+      "nombreResidente": "María",
+      "apellidoResidente": "García",
+      "telefonoResidente": "3102345678",
+      "emailResidente": "maria.garcia@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "1123456789",
+      "EstadoMoraResidente": "True",
+      "torre": "A",
+      "apartamento": "102",
+      "residenteId": "2"
+    },
+    {
+      "nombreResidente": "Carlos",
+      "apellidoResidente": "Rodríguez",
+      "telefonoResidente": "3203456789",
+      "emailResidente": "carlos.rodriguez@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "1223456789",
+      "EstadoMoraResidente": "True",
+      "torre": "A",
+      "apartamento": "103",
+      "residenteId": "3"
+    },
+    {
+      "nombreResidente": "Ana",
+      "apellidoResidente": "Martínez",
+      "telefonoResidente": "3004567890",
+      "emailResidente": "ana.martinez@gmail.com",
+      "Parqueadero": "No",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "1323456789",
+      "EstadoMoraResidente": "True",
+      "torre": "A",
+      "apartamento": "104",
+      "residenteId": "4"
+    },
+    {
+      "nombreResidente": "Pedro",
+      "apellidoResidente": "Sánchez",
+      "telefonoResidente": "3105678901",
+      "emailResidente": "pedro.sanchez@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "1423456789",
+      "EstadoMoraResidente": "True",
+      "torre": "A",
+      "apartamento": "201",
+      "residenteId": "5"
+    },
+    {
+      "nombreResidente": "Laura",
+      "apellidoResidente": "López",
+      "telefonoResidente": "3206789012",
+      "emailResidente": "laura.lopez@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "1523456789",
+      "EstadoMoraResidente": "True",
+      "torre": "A",
+      "apartamento": "202",
+      "residenteId": "6"
+    },
+    {
+      "nombreResidente": "Miguel",
+      "apellidoResidente": "González",
+      "telefonoResidente": "3007890123",
+      "emailResidente": "miguel.gonzalez@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "1623456789",
+      "EstadoMoraResidente": "False",
+      "torre": "A",
+      "apartamento": "203",
+      "residenteId": "7"
+    },
+    {
+      "nombreResidente": "Isabel",
+      "apellidoResidente": "Díaz",
+      "telefonoResidente": "3108901234",
+      "emailResidente": "isabel.diaz@gmail.com",
+      "Parqueadero": "No",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "1723456789",
+      "EstadoMoraResidente": "True",
+      "torre": "A",
+      "apartamento": "204",
+      "residenteId": "8"
+    },
+    {
+      "nombreResidente": "Francisco",
+      "apellidoResidente": "Ruiz",
+      "telefonoResidente": "3209012345",
+      "emailResidente": "francisco.ruiz@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "1823456789",
+      "EstadoMoraResidente": "True",
+      "torre": "A",
+      "apartamento": "301",
+      "residenteId": "9"
+    },
+    {
+      "nombreResidente": "Carmen",
+      "apellidoResidente": "Fernández",
+      "telefonoResidente": "3000123456",
+      "emailResidente": "carmen.fernandez@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "1923456789",
+      "EstadoMoraResidente": "True",
+      "torre": "A",
+      "apartamento": "302",
+      "residenteId": "10"
+    },
+    {
+      "nombreResidente": "Javier",
+      "apellidoResidente": "Moreno",
+      "telefonoResidente": "3101234567",
+      "emailResidente": "javier.moreno@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "2023456789",
+      "EstadoMoraResidente": "True",
+      "torre": "B",
+      "apartamento": "101",
+      "residenteId": "11"
+    },
+    {
+      "nombreResidente": "Lucía",
+      "apellidoResidente": "Jiménez",
+      "telefonoResidente": "3202345678",
+      "emailResidente": "lucia.jimenez@gmail.com",
+      "Parqueadero": "No",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "2123456789",
+      "EstadoMoraResidente": "True",
+      "torre": "B",
+      "apartamento": "102",
+      "residenteId": "12"
+    },
+    {
+      "nombreResidente": "Antonio",
+      "apellidoResidente": "Álvarez",
+      "telefonoResidente": "3003456789",
+      "emailResidente": "antonio.alvarez@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "2223456789",
+      "EstadoMoraResidente": "True",
+      "torre": "B",
+      "apartamento": "103",
+      "residenteId": "13"
+    },
+    {
+      "nombreResidente": "Elena",
+      "apellidoResidente": "Muñoz",
+      "telefonoResidente": "3104567890",
+      "emailResidente": "elena.munoz@gmail.com",
+      "Parqueadero": "No",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "2323456789",
+      "EstadoMoraResidente": "True",
+      "torre": "B",
+      "apartamento": "104",
+      "residenteId": "14"
+    },
+    {
+      "nombreResidente": "David",
+      "apellidoResidente": "Romero",
+      "telefonoResidente": "3205678901",
+      "emailResidente": "david.romero@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "2423456789",
+      "EstadoMoraResidente": "True",
+      "torre": "B",
+      "apartamento": "201",
+      "residenteId": "15"
+    },
+    {
+      "nombreResidente": "Sofía",
+      "apellidoResidente": "Alonso",
+      "telefonoResidente": "3006789012",
+      "emailResidente": "sofia.alonso@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "2523456789",
+      "EstadoMoraResidente": "True",
+      "torre": "B",
+      "apartamento": "202",
+      "residenteId": "16"
+    },
+    {
+      "nombreResidente": "Manuel",
+      "apellidoResidente": "Torres",
+      "telefonoResidente": "3107890123",
+      "emailResidente": "manuel.torres@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "2623456789",
+      "EstadoMoraResidente": "True",
+      "torre": "B",
+      "apartamento": "203",
+      "residenteId": "17"
+    },
+    {
+      "nombreResidente": "Beatriz",
+      "apellidoResidente": "Ortega",
+      "telefonoResidente": "3208901234",
+      "emailResidente": "beatriz.ortega@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "2723456789",
+      "EstadoMoraResidente": "True",
+      "torre": "B",
+      "apartamento": "204",
+      "residenteId": "18"
+    },
+    {
+      "nombreResidente": "Alejandro",
+      "apellidoResidente": "Castro",
+      "telefonoResidente": "3009012345",
+      "emailResidente": "alejandro.castro@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "2823456789",
+      "EstadoMoraResidente": "True",
+      "torre": "B",
+      "apartamento": "301",
+      "residenteId": "19"
+    },
+    {
+      "nombreResidente": "Cristina",
+      "apellidoResidente": "Delgado",
+      "telefonoResidente": "3100123456",
+      "emailResidente": "cristina.delgado@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "2923456789",
+      "EstadoMoraResidente": "True",
+      "torre": "B",
+      "apartamento": "302",
+      "residenteId": "20"
+    },
+    {
+      "nombreResidente": "Roberto",
+      "apellidoResidente": "Vargas",
+      "telefonoResidente": "3201234567",
+      "emailResidente": "roberto.vargas@gmail.com",
+      "Parqueadero": "No",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "3023456789",
+      "EstadoMoraResidente": "False",
+      "torre": "C",
+      "apartamento": "101",
+      "residenteId": "21"
+    },
+    {
+      "nombreResidente": "Natalia",
+      "apellidoResidente": "Serrano",
+      "telefonoResidente": "3002345678",
+      "emailResidente": "natalia.serrano@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "3123456789",
+      "EstadoMoraResidente": "True",
+      "torre": "C",
+      "apartamento": "102",
+      "residenteId": "22"
+    },
+    {
+      "nombreResidente": "Ángel",
+      "apellidoResidente": "Herrera",
+      "telefonoResidente": "3103456789",
+      "emailResidente": "angel.herrera@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "3223456789",
+      "EstadoMoraResidente": "True",
+      "torre": "C",
+      "apartamento": "103",
+      "residenteId": "23"
+    },
+    {
+      "nombreResidente": "Silvia",
+      "apellidoResidente": "Molina",
+      "telefonoResidente": "3204567890",
+      "emailResidente": "silvia.molina@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "3323456789",
+      "EstadoMoraResidente": "True",
+      "torre": "C",
+      "apartamento": "104",
+      "residenteId": "24"
+    },
+    {
+      "nombreResidente": "Raúl",
+      "apellidoResidente": "Blanco",
+      "telefonoResidente": "3005678901",
+      "emailResidente": "raul.blanco@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "3423456789",
+      "EstadoMoraResidente": "True",
+      "torre": "C",
+      "apartamento": "201",
+      "residenteId": "25"
+    },
+    {
+      "nombreResidente": "Patricia",
+      "apellidoResidente": "Sanz",
+      "telefonoResidente": "3106789012",
+      "emailResidente": "patricia.sanz@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "3523456789",
+      "EstadoMoraResidente": "True",
+      "torre": "C",
+      "apartamento": "202",
+      "residenteId": "26"
+    },
+    {
+      "nombreResidente": "Fernando",
+      "apellidoResidente": "Medina",
+      "telefonoResidente": "3207890123",
+      "emailResidente": "fernando.medina@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "3623456789",
+      "EstadoMoraResidente": "True",
+      "torre": "C",
+      "apartamento": "203",
+      "residenteId": "27"
+    },
+    {
+      "nombreResidente": "Mónica",
+      "apellidoResidente": "León",
+      "telefonoResidente": "3008901234",
+      "emailResidente": "monica.leon@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "3723456789",
+      "EstadoMoraResidente": "True",
+      "torre": "C",
+      "apartamento": "204",
+      "residenteId": "28"
+    },
+    {
+      "nombreResidente": "Andrés",
+      "apellidoResidente": "Vega",
+      "telefonoResidente": "3109012345",
+      "emailResidente": "andres.vega@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "3823456789",
+      "EstadoMoraResidente": "True",
+      "torre": "C",
+      "apartamento": "301",
+      "residenteId": "29"
+    },
+    {
+      "nombreResidente": "Eva",
+      "apellidoResidente": "Campos",
+      "telefonoResidente": "3200123456",
+      "emailResidente": "eva.campos@gmail.com",
+      "Parqueadero": "No",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "3923456789",
+      "EstadoMoraResidente": "True",
+      "torre": "C",
+      "apartamento": "302",
+      "residenteId": "30"
+    },
+    {
+      "nombreResidente": "José",
+      "apellidoResidente": "Reyes",
+      "telefonoResidente": "3001234567",
+      "emailResidente": "jose.reyes@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "4023456789",
+      "EstadoMoraResidente": "False",
+      "torre": "D",
+      "apartamento": "101",
+      "residenteId": "31"
+    },
+    {
+      "nombreResidente": "Marina",
+      "apellidoResidente": "Guerrero",
+      "telefonoResidente": "3102345678",
+      "emailResidente": "marina.guerrero@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "4123456789",
+      "EstadoMoraResidente": "True",
+      "torre": "D",
+      "apartamento": "102",
+      "residenteId": "32"
+    },
+    {
+      "nombreResidente": "Alberto",
+      "apellidoResidente": "Ramos",
+      "telefonoResidente": "3203456789",
+      "emailResidente": "alberto.ramos@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "4223456789",
+      "EstadoMoraResidente": "True",
+      "torre": "D",
+      "apartamento": "103",
+      "residenteId": "33"
+    },
+    {
+      "nombreResidente": "Rosa",
+      "apellidoResidente": "Navarro",
+      "telefonoResidente": "3004567890",
+      "emailResidente": "rosa.navarro@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "4323456789",
+      "EstadoMoraResidente": "True",
+      "torre": "D",
+      "apartamento": "104",
+      "residenteId": "34"
+    },
+    {
+      "nombreResidente": "Luis",
+      "apellidoResidente": "Prieto",
+      "telefonoResidente": "3105678901",
+      "emailResidente": "luis.prieto@gmail.com",
+      "Parqueadero": "No",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "4423456789",
+      "EstadoMoraResidente": "True",
+      "torre": "D",
+      "apartamento": "201",
+      "residenteId": "35"
+    },
+    {
+      "nombreResidente": "Teresa",
+      "apellidoResidente": "Morales",
+      "telefonoResidente": "3206789012",
+      "emailResidente": "teresa.morales@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "4523456789",
+      "EstadoMoraResidente": "True",
+      "torre": "D",
+      "apartamento": "202",
+      "residenteId": "36"
+    },
+    {
+      "nombreResidente": "Víctor",
+      "apellidoResidente": "Crespo",
+      "telefonoResidente": "3007890123",
+      "emailResidente": "victor.crespo@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "4623456789",
+      "EstadoMoraResidente": "True",
+      "torre": "D",
+      "apartamento": "203",
+      "residenteId": "37"
+    },
+    {
+      "nombreResidente": "Marta",
+      "apellidoResidente": "Domínguez",
+      "telefonoResidente": "3108901234",
+      "emailResidente": "marta.dominguez@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "4723456789",
+      "EstadoMoraResidente": "True",
+      "torre": "D",
+      "apartamento": "204",
+      "residenteId": "38"
+    },
+    {
+      "nombreResidente": "Óscar",
+      "apellidoResidente": "Gallego",
+      "telefonoResidente": "3209012345",
+      "emailResidente": "oscar.gallego@gmail.com",
+      "Parqueadero": "No",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "4823456789",
+      "EstadoMoraResidente": "True",
+      "torre": "D",
+      "apartamento": "301",
+      "residenteId": "39"
+    },
+    {
+      "nombreResidente": "Nuria",
+      "apellidoResidente": "Cruz",
+      "telefonoResidente": "3000123456",
+      "emailResidente": "nuria.cruz@gmail.com",
+      "Parqueadero": "Si",
+      "TipoDocumentoResidente": "CC",
+      "NumeroDocumentoResidente": "4923456789",
+      "EstadoMoraResidente": "True",
+      "torre": "D",
+      "apartamento": "302",
+      "residenteId": "40"
+    }
+  ],
+  "Visitante": [
+    {
+      "nombre": "Camila",
+      "apellido": "Rodríguez",
+      "telefono": "3201234567",
+      "tipoDocumento": "CC",
+      "numdoc": "1005678901",
+      "torre": "C",
+      "apartamento": "101"
+    },
+    {
+      "nombre": "Andrés",
+      "apellido": "Gómez",
+      "telefono": "3112345678",
+      "tipoDocumento": "CC",
+      "numdoc": "80345678",
+      "torre": "C",
+      "apartamento": "101"
+    },
+    {
+      "nombre": "Valentina",
+      "apellido": "Pérez",
+      "telefono": "3003456789",
+      "tipoDocumento": "CC",
+      "numdoc": "1006789012",
+      "torre": "C",
+      "apartamento": "101"
+    },
+    {
+      "nombre": "Daniel",
+      "apellido": "Vargas",
+      "telefono": "3208901234",
+      "tipoDocumento": "CC",
+      "numdoc": "1008901234",
+      "torre": "A",
+      "apartamento": "302"
+    },
+    {
+      "nombre": "Laura",
+      "apellido": "Mendoza",
+      "telefono": "3205678901",
+      "tipoDocumento": "CC",
+      "numdoc": "1001234567",
+      "torre": "B",
+      "apartamento": "203"
+    },
+    {
+      "nombre": "Esteban",
+      "apellido": "Ortiz",
+      "telefono": "3116789012",
+      "tipoDocumento": "CC",
+      "numdoc": "80901234",
+      "torre": "B",
+      "apartamento": "203"
+    },
+    {
+      "nombre": "Sara",
+      "apellido": "Ramírez",
+      "telefono": "3007890123",
+      "tipoDocumento": "CC",
+      "numdoc": "1002345678",
+      "torre": "B",
+      "apartamento": "203"
+    },
+    {
+      "nombre": "Alejandro",
+      "apellido": "Guerrero",
+      "telefono": "3188901234",
+      "tipoDocumento": "CC",
+      "numdoc": "53012345",
+      "torre": "B",
+      "apartamento": "203"
+    },
+    {
+      "nombre": "Julián",
+      "apellido": "Medina",
+      "telefono": "3202345678",
+      "tipoDocumento": "CC",
+      "numdoc": "1004567890",
+      "torre": "D",
+      "apartamento": "204"
+    },
+    {
+      "nombre": "Antonia",
+      "apellido": "Salazar",
+      "telefono": "3113456789",
+      "tipoDocumento": "CC",
+      "numdoc": "81012345",
+      "torre": "D",
+      "apartamento": "204"
+    },
+    {
+      "nombre": "Manuela",
+      "apellido": "Guzmán",
+      "telefono": "3209012345",
+      "tipoDocumento": "CC",
+      "numdoc": "1007890123",
+      "torre": "A",
+      "apartamento": "201"
+    },
+    {
+      "nombre": "Felipe",
+      "apellido": "Arango",
+      "telefono": "3110123456",
+      "tipoDocumento": "CC",
+      "numdoc": "53345678",
+      "torre": "A",
+      "apartamento": "201"
+    },
+    {
+      "nombre": "Lucía",
+      "apellido": "Castaño",
+      "telefono": "3001234567",
+      "tipoDocumento": "CC",
+      "numdoc": "1008901234",
+      "torre": "A",
+      "apartamento": "201"
+    },
+    {
+      "nombre": "Tomás",
+      "apellido": "Betancur",
+      "telefono": "3182345678",
+      "tipoDocumento": "CC",
+      "numdoc": "81123456",
+      "torre": "A",
+      "apartamento": "201"
+    },
+    {
+      "nombre": "Martina",
+      "apellido": "Restrepo",
+      "telefono": "3153456789",
+      "tipoDocumento": "CC",
+      "numdoc": "1009012345",
+      "torre": "A",
+      "apartamento": "201"
+    }
+  ],
+  "AgendamientoEntrada": [
+    {
+      "fechaentrada": "2024-08-20",
+      "horaEntrada": "10:30:00",
+      "fechasalida": "2024-08-20",
+      "horaSalida": "12:00:00",
+      "TipoEntrada": "Peatonal",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "1",
+      "idUnidad": "49"
+    },
+    {
+      "fechaentrada": "2024-08-20",
+      "horaEntrada": "11:00:00",
+      "fechasalida": "2024-08-20",
+      "horaSalida": "13:30:00",
+      "TipoEntrada": "Vehicular",
+      "NumPersonas": "2",
+      "Estado": "Completado",
+      "idVisitante": "2",
+      "idUnidad": "49"
+    },
+    {
+      "fechaentrada": "2024-08-20",
+      "horaEntrada": "11:15:00",
+      "fechasalida": "2024-08-20",
+      "horaSalida": "14:00:00",
+      "TipoEntrada": "Vehicular",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "3",
+      "idUnidad": "49"
+    },
+    {
+      "fechaentrada": "2024-08-21",
+      "horaEntrada": "09:15:00",
+      "fechasalida": "2024-08-21",
+      "horaSalida": "11:30:00",
+      "TipoEntrada": "Vehicular",
+      "NumPersonas": "3",
+      "Estado": "Completado",
+      "idVisitante": "4",
+      "idUnidad": "22"
+    },
+    {
+      "fechaentrada": "2024-08-21",
+      "horaEntrada": "15:00:00",
+      "fechasalida": "2024-08-21",
+      "horaSalida": "16:45:00",
+      "TipoEntrada": "Peatonal",
+      "NumPersonas": "2",
+      "Estado": "Completado",
+      "idVisitante": "5",
+      "idUnidad": "31"
+    },
+    {
+      "fechaentrada": "2024-08-21",
+      "horaEntrada": "15:30:00",
+      "fechasalida": "2024-08-21",
+      "horaSalida": "17:00:00",
+      "TipoEntrada": "Peatonal",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "6",
+      "idUnidad": "31"
+    },
+    {
+      "fechaentrada": "2024-08-21",
+      "horaEntrada": "16:00:00",
+      "fechasalida": "2024-08-21",
+      "horaSalida": "18:00:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "7",
+      "idUnidad": "31"
+    },
+    {
+      "fechaentrada": "2024-08-21",
+      "horaEntrada": "16:30:00",
+      "fechasalida": "2024-08-21",
+      "horaSalida": "19:00:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "8",
+      "idUnidad": "31"
+    },
+    {
+      "fechaentrada": "2024-08-22",
+      "horaEntrada": "14:00:00",
+      "fechasalida": "2024-08-22",
+      "horaSalida": "16:00:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "2",
+      "Estado": "Completado",
+      "idVisitante": "9",
+      "idUnidad": "64"
+    },
+    {
+      "fechaentrada": "2024-08-22",
+      "horaEntrada": "14:30:00",
+      "fechasalida": "2024-08-22",
+      "horaSalida": "16:30:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "2",
+      "Estado": "Completado",
+      "idVisitante": "10",
+      "idUnidad": "64"
+    },
+    {
+      "fechaentrada": "2024-08-22",
+      "horaEntrada": "16:00:00",
+      "fechasalida": "2024-08-22",
+      "horaSalida": "18:00:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "11",
+      "idUnidad": "5"
+    },
+    {
+      "fechaentrada": "2024-08-22",
+      "horaEntrada": "16:30:00",
+      "fechasalida": "2024-08-22",
+      "horaSalida": "19:00:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "12",
+      "idUnidad": "5"
+    },
+    {
+      "fechaentrada": "2024-08-22",
+      "horaEntrada": "17:00:00",
+      "fechasalida": "2024-08-22",
+      "horaSalida": "19:30:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "13",
+      "idUnidad": "5"
+    },
+    {
+      "fechaentrada": "2024-08-22",
+      "horaEntrada": "17:30:00",
+      "fechasalida": "2024-08-22",
+      "horaSalida": "20:00:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "14",
+      "idUnidad": "5"
+    },
+    {
+      "fechaentrada": "2024-08-22",
+      "horaEntrada": "18:00:00",
+      "fechasalida": "2024-08-22",
+      "horaSalida": "20:30:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "15",
+      "idUnidad": "5"
+    },
+    {
+      "fechaentrada": "2024-08-23",
+      "horaEntrada": "09:45:00",
+      "fechasalida": "2024-08-23",
+      "horaSalida": "11:00:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "2",
+      "Estado": "Completado",
+      "idVisitante": "16",
+      "idUnidad": "66"
+    },
+    {
+      "fechaentrada": "2024-08-23",
+      "horaEntrada": "09:45:00",
+      "fechasalida": "2024-08-23",
+      "horaSalida": "11:00:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "17",
+      "idUnidad": "66"
+    },
+    {
+      "fechaentrada": "2024-08-23",
+      "horaEntrada": "09:45:00",
+      "fechasalida": "2024-08-23",
+      "horaSalida": "11:00:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "18",
+      "idUnidad": "66"
+    },
+    {
+      "fechaentrada": "2024-08-23",
+      "horaEntrada": "14:30:00",
+      "fechasalida": "2024-08-23",
+      "horaSalida": "17:00:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "19",
+      "idUnidad": "71"
+    },
+    {
+      "fechaentrada": "2024-08-23",
+      "horaEntrada": "15:00:00",
+      "fechasalida": "2024-08-23",
+      "horaSalida": "17:30:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "2",
+      "Estado": "Completado",
+      "idVisitante": "20",
+      "idUnidad": "71"
+    },
+    {
+      "fechaentrada": "2024-08-23",
+      "horaEntrada": "15:30:00",
+      "fechasalida": "2024-08-23",
+      "horaSalida": "18:00:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "21",
+      "idUnidad": "71"
+    },
+    {
+      "fechaentrada": "2024-08-23",
+      "horaEntrada": "16:00:00",
+      "fechasalida": "2024-08-23",
+      "horaSalida": "18:30:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "22",
+      "idUnidad": "71"
+    },
+    {
+      "fechaentrada": "2024-08-24",
+      "horaEntrada": "08:45:00",
+      "fechasalida": "2024-08-24",
+      "horaSalida": "10:15:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "2",
+      "Estado": "Completado",
+      "idVisitante": "23",
+      "idUnidad": "8"
+    },
+    {
+      "fechaentrada": "2024-08-24",
+      "horaEntrada": "09:00:00",
+      "fechasalida": "2024-08-24",
+      "horaSalida": "10:30:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "24",
+      "idUnidad": "8"
+    },
+    {
+      "fechaentrada": "2024-08-24",
+      "horaEntrada": "09:15:00",
+      "fechasalida": "2024-08-24",
+      "horaSalida": "10:45:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "25",
+      "idUnidad": "8"
+    },
+    {
+      "fechaentrada": "2024-08-24",
+      "horaEntrada": "10:00:00",
+      "fechasalida": "2024-08-24",
+      "horaSalida": "11:30:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "26",
+      "idUnidad": "33"
+    },
+    {
+      "fechaentrada": "2024-08-24",
+      "horaEntrada": "10:30:00",
+      "fechasalida": "2024-08-24",
+      "horaSalida": "12:00:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "27",
+      "idUnidad": "33"
+    },
+    {
+      "fechaentrada": "2024-08-24",
+      "horaEntrada": "11:00:00",
+      "fechasalida": "2024-08-24",
+      "horaSalida": "12:30:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "28",
+      "idUnidad": "33"
+    },
+    {
+      "fechaentrada": "2024-08-24",
+      "horaEntrada": "11:30:00",
+      "fechasalida": "2024-08-24",
+      "horaSalida": "13:00:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "29",
+      "idUnidad": "33"
+    },
+    {
+      "fechaentrada": "2024-08-24",
+      "horaEntrada": "12:00:00",
+      "fechasalida": "2024-08-24",
+      "horaSalida": "13:30:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "1",
+      "Estado": "Completado",
+      "idVisitante": "30",
+      "idUnidad": "33"
+    },
+    {
+      "fechaentrada": "2024-08-24",
+      "horaEntrada": "13:00:00",
+      "fechasalida": "2024-08-24",
+      "horaSalida": "14:30:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "2",
+      "Estado": "Completado",
+      "idVisitante": "31",
+      "idUnidad": "8"
+    },
+    {
+      "fechaentrada": "2024-08-24",
+      "horaEntrada": "13:30:00",
+      "fechasalida": "2024-08-24",
+      "horaSalida": "15:00:00",
+      "TipoEntrada": "Visita",
+      "NumPersonas": "2",
+      "Estado": "Completado",
+      "idVisitante": "32",
+      "idUnidad": "8"
+    }
+  ],
+  "Parqueadero": [
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    },
+    {
+      "CantidadParqueaderos": "1",
+      "Estado": "Ocupado"
+    }
+  ],
+  "vehiculo": [
+    {
+      "color": "Rojo",
+      "modelo": "Chevrolet Onix",
+      "placa": "ABC123",
+      "idParqueadero": "1"
+    },
+    {
+      "color": "Blanco",
+      "modelo": "Renault Duster",
+      "placa": "DEF456",
+      "idParqueadero": "2"
+    },
+    {
+      "color": "Gris",
+      "modelo": "Mazda CX-5",
+      "placa": "GHI789",
+      "idParqueadero": "3"
+    },
+    {
+      "color": "Negro",
+      "modelo": "Toyota Corolla",
+      "placa": "JKL012",
+      "idParqueadero": "4"
+    },
+    {
+      "color": "Azul",
+      "modelo": "Kia Picanto",
+      "placa": "MNO345",
+      "idParqueadero": "5"
+    },
+    {
+      "color": "Plata",
+      "modelo": "Ford EcoSport",
+      "placa": "PQR678",
+      "idParqueadero": "6"
+    },
+    {
+      "color": "Verde",
+      "modelo": "Nissan Versa",
+      "placa": "STU901",
+      "idParqueadero": "7"
+    },
+    {
+      "color": "Amarillo",
+      "modelo": "Hyundai i10",
+      "placa": "VWX234",
+      "idParqueadero": "8"
+    },
+    {
+      "color": "Naranja",
+      "modelo": "Volkswagen Gol",
+      "placa": "YZA567",
+      "idParqueadero": "9"
+    },
+    {
+      "color": "Café",
+      "modelo": "Suzuki Swift",
+      "placa": "BCD890",
+      "idParqueadero": "10"
+    },
+    {
+      "color": "Beige",
+      "modelo": "Chevrolet Tracker",
+      "placa": "EFG123",
+      "idParqueadero": "11"
+    },
+    {
+      "color": "Dorado",
+      "modelo": "Renault Sandero",
+      "placa": "HIJ456",
+      "idParqueadero": "12"
+    },
+    {
+      "color": "Vino Tinto",
+      "modelo": "Mazda 3",
+      "placa": "KLM789",
+      "idParqueadero": "13"
+    },
+    {
+      "color": "Gris Oscuro",
+      "modelo": "Toyota Hilux",
+      "placa": "NOP012",
+      "idParqueadero": "14"
+    },
+    {
+      "color": "Azul Marino",
+      "modelo": "Kia Sportage",
+      "placa": "QRS345",
+      "idParqueadero": "15"
+    },
+    {
+      "color": "Blanco Perla",
+      "modelo": "Ford Fiesta",
+      "placa": "TUV678",
+      "idParqueadero": "16"
+    },
+    {
+      "color": "Negro Mate",
+      "modelo": "Nissan Kicks",
+      "placa": "WXY901",
+      "idParqueadero": "17"
+    },
+    {
+      "color": "Rojo Metalizado",
+      "modelo": "Hyundai Tucson",
+      "placa": "ZAB234",
+      "idParqueadero": "18"
+    },
+    {
+      "color": "Gris Plata",
+      "modelo": "Volkswagen T-Cross",
+      "placa": "CDE567",
+      "idParqueadero": "19"
+    },
+    {
+      "color": "Azul Eléctrico",
+      "modelo": "Suzuki Vitara",
+      "placa": "FGH890",
+      "idParqueadero": "20"
+    },
+    {
+      "color": "Verde Oliva",
+      "modelo": "Chevrolet Spark",
+      "placa": "IJK123",
+      "idParqueadero": "21"
+    },
+    {
+      "color": "Champagne",
+      "modelo": "Renault Kwid",
+      "placa": "LMN456",
+      "idParqueadero": "22"
+    },
+    {
+      "color": "Plata Metalizado",
+      "modelo": "Mazda 2",
+      "placa": "OPQ789",
+      "idParqueadero": "23"
+    },
+    {
+      "color": "Gris Grafito",
+      "modelo": "Toyota Rav4",
+      "placa": "RST012",
+      "idParqueadero": "24"
+    },
+    {
+      "color": "Blanco Nieve",
+      "modelo": "Kia Rio",
+      "placa": "UVW345",
+      "idParqueadero": "25"
+    },
+    {
+      "color": "Negro Brillante",
+      "modelo": "Ford Ranger",
+      "placa": "XYZ678",
+      "idParqueadero": "26"
+    },
+    {
+      "color": "Azul Metalizado",
+      "modelo": "Nissan Sentra",
+      "placa": "ABC901",
+      "idParqueadero": "27"
+    },
+    {
+      "color": "Rojo Cereza",
+      "modelo": "Hyundai Accent",
+      "placa": "DEF234",
+      "idParqueadero": "28"
+    },
+    {
+      "color": "Gris",
+      "modelo": "Honda Civic",
+      "placa": "GHI567"
+    },
+    {
+      "color": "Blanco",
+      "modelo": "Mitsubishi L200",
+      "placa": "JKL890"
+    },
+    {
+      "color": "Negro",
+      "modelo": "Peugeot 208",
+      "placa": "MNO123"
+    },
+    {
+      "color": "Plata",
+      "modelo": "Fiat Mobi",
+      "placa": "PQR456"
+    },
+    {
+      "color": "Azul",
+      "modelo": "Jeep Renegade",
+      "placa": "STU789"
+    },
+    {
+      "color": "Rojo",
+      "modelo": "Chery Tiggo 2",
+      "placa": "VWX012"
+    },
+    {
+      "color": "Verde",
+      "modelo": "JAC S3",
+      "placa": "YZA345"
+    },
+    {
+      "color": "Amarillo",
+      "modelo": "Great Wall Wingle",
+      "placa": "BCD678"
+    },
+    {
+      "color": "Naranja",
+      "modelo": "Dodge Journey",
+      "placa": "EFG901"
+    },
+    {
+      "color": "Gris Oscuro",
+      "modelo": "Subaru XV",
+      "placa": "HIJ234"
+    },
+    {
+      "color": "Blanco Perla",
+      "modelo": "Volvo XC40",
+      "placa": "KLM567"
+    },
+    {
+      "color": "Negro Mate",
+      "modelo": "BMW X1",
+      "placa": "NOP890"
+    }
+  ],
+  "Funcionario": [
+    {
+      "nombre": "Carlos Alberto",
+      "apellido": "Ramírez",
+      "tipoDocumento": "CC",
+      "numdoc": "1020304050",
+      "telefono": "3105557890",
+      "contrasenia": "admin123*",
+      "Correo": "carlos.ramirez@gmail.com"
+    },
+    {
+      "nombre": "Ana María",
+      "apellido": "Gómez",
+      "tipoDocumento": "CC",
+      "numdoc": "2030405060",
+      "telefono": "3125552345",
+      "contrasenia": "vig2023!",
+      "Correo": "ana.gomez@gmail.com"
+    },
+    {
+      "nombre": "Juan Diego",
+      "apellido": "Hernández",
+      "tipoDocumento": "CC",
+      "numdoc": "3040506070",
+      "telefono": "3001234567",
+      "contrasenia": "seguridad456&",
+      "Correo": "juan.hernandez@gmail.com"
+    },
+    {
+      "nombre": "Laura Catalina",
+      "apellido": "Ospina",
+      "tipoDocumento": "CC",
+      "numdoc": "4050607080",
+      "telefono": "3102345678",
+      "contrasenia": "vigilancia789#",
+      "Correo": "laura.ospina@gmail.com"
+    },
+    {
+      "nombre": "Pedro Antonio",
+      "apellido": "Vargas",
+      "tipoDocumento": "CC",
+      "numdoc": "5060708090",
+      "telefono": "3223456789",
+      "contrasenia": "control2023@",
+      "Correo": "pedro.vargas@gmail.com"
+    }
+  ],
+  "Vigilante": [
+    {
+      "nombre": "Ana María",
+      "apellido": "Gómez",
+      "tipoDocumento": "CC",
+      "numdoc": "2030405060",
+      "telefono": "3125552345",
+      "contrasenia": "vig2023!",
+      "Correo": "ana.gomez@gmail.com"
+    },
+    {
+      "nombre": "Juan Diego",
+      "apellido": "Hernández",
+      "tipoDocumento": "CC",
+      "numdoc": "3040506070",
+      "telefono": "3001234567",
+      "contrasenia": "seguridad456&",
+      "Correo": "juan.hernandez@gmail.com"
+    },
+    {
+      "nombre": "Laura Catalina",
+      "apellido": "Ospina",
+      "tipoDocumento": "CC",
+      "numdoc": "4050607080",
+      "telefono": "3102345678",
+      "contrasenia": "vigilancia789#",
+      "Correo": "laura.ospina@gmail.com"
+    },
+    {
+      "nombre": "Pedro Antonio",
+      "apellido": "Vargas",
+      "tipoDocumento": "CC",
+      "numdoc": "5060708090",
+      "telefono": "3223456789",
+      "contrasenia": "control2023@",
+      "Correo": "pedro.vargas@gmail.com"
+    }
+  ],
+  "Administrador": [
+    {
+      "nombre": "Carlos Alberto",
+      "apellido": "Ramírez",
+      "tipoDocumento": "CC",
+      "numdoc": "1020304050",
+      "telefono": "3105557890",
+      "contrasenia": "admin123*",
+      "Correo": "carlos.ramirez@gmail.com"
+    }
+  ]
+}
